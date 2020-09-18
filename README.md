@@ -1,6 +1,14 @@
-# SEO
-improved code for search engine optimization
+<h1>Updated code for Search Engine Optimization<h1>
 
-Left notation to make it easier to navigate
 
-added semantic html elements
+<ul>
+  <li>Improved code for search engine optimization</li>
+
+  <li>Left notation to make it easier to navigate</li>
+
+  <li>Added semantic html elements</li>
+<ul>
+<br>
+ https://jacobn88.github.io/SEO/ 
+
+![](assets/Horiseonsolutions.png)
